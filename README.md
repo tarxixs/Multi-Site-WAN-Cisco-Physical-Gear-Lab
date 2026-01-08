@@ -1,2 +1,3 @@
-# Multi-Site-WAN over provider infrastructure | Cisco physical gear lab
+# Multi-Site-WAN over provider infrastructure
+# Cisco physical gear lab
 This project simulates a multi-site enterprise WAN traversing a public service provider network, designed to mirror real-world ISP and enterprise interconnection practices. The topology includes multiple branch LANs, a simulated provider edge–core–edge MPLS backbone, and geographically separated sites interconnected over a shared infrastructure.
